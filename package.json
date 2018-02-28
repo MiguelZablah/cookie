@@ -1,5 +1,5 @@
 {
-  "name": "@zablah/cookies",
+  "name": "zablah-cookies",
   "version": "1.0.0",
   "description": "Simple cookies manager",
   "main": "./dist/cookies-min.js",
