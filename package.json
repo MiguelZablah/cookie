@@ -1,0 +1,31 @@
+{
+  "name": "cookies",
+  "version": "1.0.0",
+  "description": "Simple cookies manager",
+  "main": "./dist/cookies-min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelZablah/cookie.git"
+  },
+  "keywords": [
+    "cookies",
+    "javascript"
+  ],
+  "author": "Zablah <miguel12979@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MiguelZablah/cookie/issues"
+  },
+  "homepage": "https://github.com/MiguelZablah/cookie#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify": "^2.1.0"
+  }
+}
