@@ -1,4 +1,4 @@
-# CookieAndLocal
+# Cookies Simple
 
 This is only for testing...
 

@@ -12,7 +12,7 @@ var cookie = (function(global){
         global.document.cookie = name + "=" + value + expires + "; path=/";
 
         if(readsCookie.length > 0)
-            return `cookie create => Name: {name}, Value: {value}, Expires in: {days} days`;
+            return `cookie create => Name: ${name}, Value: ${value}, Expires in: ${days} days`;
             
         return null;
     };
